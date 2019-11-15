@@ -1,7 +1,7 @@
 title: Torna alla pagina principale
 baseURL: /
 params:
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:
