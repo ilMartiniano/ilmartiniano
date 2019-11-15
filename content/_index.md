@@ -97,7 +97,7 @@ sections:
       social_icons:
         - icon: fa-twitter
           title: Twitter
-          url: '#'
+          url: 'https://twitter.com/Martimondo'
         - icon: fa-facebook
           title: Facebook
           url: '#'
@@ -106,10 +106,10 @@ sections:
           url: '#'
         - icon: fa-instagram
           title: Instagram
-          url: '#'
+          url: 'https://www.instagram.com/ilmartiniano/'
         - icon: fa-linkedin
           title: LinkedIn
-          url: '#'
+          url: 'https://www.linkedin.com/in/martinotuttolomondo'
         - icon: credential.png
           title: Credential.net
           url: 'https://www.credential.net/profile/martino334/wallet'
