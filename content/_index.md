@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ilMartiniano
 sidebar:
   entries:
     - is_primary: true
@@ -26,7 +26,7 @@ sections:
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    title: Martino Tuttolomondo
     type: intro
   - background_style: style2
     component: spotlights.html
