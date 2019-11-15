@@ -110,7 +110,7 @@ sections:
         - icon: fa-linkedin
           title: LinkedIn
           url: 'https://www.linkedin.com/in/martinotuttolomondo'
-        - icon: credential.png
+        - icon: fa-linkedin
           title: Credential.net
           url: 'https://www.credential.net/profile/martino334/wallet'
       title: Social
