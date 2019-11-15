@@ -3,7 +3,7 @@ title: Home
 sidebar:
   entries:
     - is_primary: true
-      title: Welcome
+      title: Dove ti trovi
       url: '#intro'
     - is_primary: false
       title: Who we are
@@ -12,7 +12,7 @@ sidebar:
       title: What we do
       url: '#two'
     - is_primary: false
-      title: Get in touch
+      title: Contattami + Link Social
       url: '#three'
 sections:
   - actions:
