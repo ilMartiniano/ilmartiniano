@@ -110,7 +110,8 @@ sections:
         - icon: fa-linkedin
           title: LinkedIn
           url: '#'
-        - title: Credential.net
+        - icon: credential.png
+          title: Credential.net
           url: 'https://www.credential.net/profile/martino334/wallet'
       title: Social
     text: >-
